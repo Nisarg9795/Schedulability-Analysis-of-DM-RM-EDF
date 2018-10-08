@@ -2,7 +2,7 @@
 CC=gcc
 LIBS = -pthread -lm
 CFLAGS  = -Wall
-TARGET = rtes2
+TARGET = Code
 
 
 all: $(TARGET)
